@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
     <div class="centraliza-container">
         <header>
             <img class="container-img" src="imagens/charlieparker2.jpg" alt="logo">
