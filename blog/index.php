@@ -1,3 +1,5 @@
+<?php include_once("conexão.php");
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -8,7 +10,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <form method="POST" action="conexão.php">
+    
     <div class="centraliza-container">
         <header>
             <img class="container-img" src="imagens/charlieparker2.jpg" alt="logo">
